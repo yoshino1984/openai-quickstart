@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/xiaoyi/Library/Application Support/Code/User/globalStorage/saoudrizwan.claude-dev/settings/**)"
+    ]
+  }
+}
